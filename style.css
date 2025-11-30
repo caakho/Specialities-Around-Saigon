@@ -920,6 +920,7 @@ li {
 #content {
     min-height: 235px; /* chiều cao cố định hoặc tùy ý */
     max-height: 235px; /* cùng chiều cao để không nhảy layout */
+	overflow-y: auto;
 }
 
 
